@@ -16,7 +16,7 @@
     </style>
 
 
-    <style name="Widget.App.CardView" parent="Widget.Material3.CardView">
+    <style name="Widget.App.CardView" parent="Widget.MaterialComponents.CardView">
         <item name="shapeAppearance">@style/ShapeAppearance.App.Card</item>
     </style>
 
